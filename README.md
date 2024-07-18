@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![social link profile](https://github.com/G-Gakii/social-link-profile/blob/main/assets/screensot/Screenshot%202024-07-18%20at%2022.10.52.png)
 
 A
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://g-gakii.github.io/social-link-profile/)
 - Live Site URL: (http://127.0.0.1:5500/index.html)
 
 ## My process
